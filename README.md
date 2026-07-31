@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anxrankur&show_icons=true&locale=en" alt="anxrankur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anxrankur&" alt="anxrankur" /></p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/anxrankur/anxrankur/blob/output/github-contribution-grid-snake.svg)

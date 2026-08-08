@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankur Shukla</h1>
+<h1 <h1 align="center">Hi 👋, I'm Ankur Shukla</h1>
 
 <p align="center">
   <strong>AI Builder · Founder @ AnxR AI · Python Learner</strong>
@@ -26,13 +26,14 @@
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ankur-shukla-467b47278/)
-- [Instagram](https://instagram.com/anxr.ai)
-- [GitHub](https://github.com/anxrankur)
+[LinkedIn](https://www.linkedin.com/in/ankur-shukla-467b47278/) · [Instagram](https://instagram.com/anxr.ai) · [GitHub](https://github.com/anxrankur)
 
 ---
 
-> Turning ideas into AI projects, one commit at a time.
 <p align="center">
   <img src="https://raw.githubusercontent.com/anxrankur/anxrankur/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <i>Turning ideas into AI projects, one commit at a time.</i>
 </p>

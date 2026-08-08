@@ -37,3 +37,6 @@
 <p align="center">
   <i>Turning ideas into AI projects, one commit at a time.</i>
 </p>
+<p align="center">
+  <img src="RAW_IMAGE_LINK_HERE" width="150" alt="Ankur Shukla">
+</p>

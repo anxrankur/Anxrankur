@@ -33,3 +33,6 @@
 ---
 
 > Turning ideas into AI projects, one commit at a time.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anxrankur/anxrankur/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
